@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=citiesxiv&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=citiesxiv&hide=prs,contribs,stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 My name is Anthony Bonasso, If any of my projects interest you, you can reach me at bonassoa@gmail.com!
